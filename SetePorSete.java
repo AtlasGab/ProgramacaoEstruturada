@@ -1,5 +1,3 @@
-package Arrays;
-
 public class SetePorSete {
 
 	public static void main(String[] args) {
